@@ -11,6 +11,8 @@ Uses [dotbot](https://github.com/anishathalye/dotbot) for management
 Inspiration
 -----------
 
+[Thoughtbot dotfiles (5K+ stars!)](https://github.com/thoughtbot/dotfiles)
+
 If you're looking for inspiration for how to structure your dotfiles or what
 kinds of things you can include, you could take a look at some repos using
 Dotbot.
