@@ -3,6 +3,9 @@
 
 Uses [dotbot](https://github.com/anishathalye/dotbot) for management
 
+Dotbot makes installing your dotfiles as easy as `git clone $url && cd dotfiles
+&& ./install`, even on a freshly installed system!
+
 [Dotfiles info](https://dotfiles.github.io/)
 
 [For initial workstation setup / software install, see the ansible workstation repository](https://github.com/Joostvanderlaan/ansible-workstation)

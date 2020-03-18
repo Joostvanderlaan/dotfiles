@@ -1,12 +1,11 @@
-- clean: ['~']
+- clean: ["~"]
 
 - link:
-    ~/.profile: profile
-    ~/.bashrc: bashrc
-    ~/.bash_logout: bash_logout
-    ~/.gitconfig: gitconfig
-    ~/.ssh/config:
-        path: ssh/config
-        create: true
-
-
+      ~/.profile: profile
+      ~/.aliases: aliases
+      ~/.bashrc: bashrc
+      ~/.bash_logout: bash_logout
+      ~/.gitconfig: gitconfig
+      ~/.ssh/config:
+          path: ssh/config
+          create: true
