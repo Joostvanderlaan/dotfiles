@@ -11,4 +11,9 @@
           create: true
       ~/.zshenv: zshenv
       ~/.zshrc: zshrc
+      ~/.zsh: zsh
+      ~/.bin: bin
+      ~/.gitignore: gitignore
+      ~/.gitmessage: gitmessage
+      ~/.git_template: git_template
 
