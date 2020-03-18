@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"cloudcode.last-used-context": {
+			"Run on Kubernetes": {
+				"kubeConfigPath": "/home/joost/.kube/config",
+				"contextName": "gke_developers-fashionunited-com_europe-west4-b_dev-cluster-1"
+			}
+		}
+	}
+}
