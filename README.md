@@ -23,6 +23,15 @@ Set zsh as your login shell:
 
 [For initial workstation setup / software install, see the ansible workstation repository](https://github.com/Joostvanderlaan/ansible-workstation)
 
+## Shell aliases and scripts:
+
+* `g` with no arguments is `git status` and with arguments acts like `git`.
+* `mcd` to make a directory and change into it.
+* `replace foo bar **/*.rb` to find and replace within a given list of files.
+* `tat` to attach to tmux session named the same as the current directory.
+* `v` for `$VISUAL`.
+
+
 Make your own customizations
 ----------------------------
 
