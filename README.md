@@ -6,12 +6,21 @@ Uses [dotbot](https://github.com/anishathalye/dotbot) for management
 Dotbot makes installing your dotfiles as easy as `git clone $url && cd dotfiles
 && ./install`, even on a freshly installed system!
 
+[Managing your dotfiles](https://www.anishathalye.com/2014/08/03/managing-your-dotfiles/)
+
 Requirements
 ------------
 
 Set zsh as your login shell:
 
     chsh -s $(which zsh)
+
+## Test if all characters work
+
+    echo "\ue0b0 \u00b1 \ue0a0 \u27a6 \u2718 \u26a1 \u2699"
+
+TODO: add powerline fonts (or inconsolata? helvetica now & some others)
+
 
 ## ZSH
 
