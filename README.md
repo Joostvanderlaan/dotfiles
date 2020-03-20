@@ -1,5 +1,6 @@
 # dotfiles
 
+  git clone https://github.com/Joostvanderlaan/dotfiles .dotfiles
 
 Uses [dotbot](https://github.com/anishathalye/dotbot) for management
 
